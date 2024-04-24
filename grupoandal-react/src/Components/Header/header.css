@@ -1,0 +1,35 @@
+.header {
+    background-image: linear-gradient(to bottom right, #a05e1f, #cf7f1a);
+    color: white;
+    margin: 0;
+    display: flex;
+    font-size: 1.6rem;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.header a {
+    color: white;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    height: inherit;
+    padding: 0 10px;
+}
+.menu {
+    height: inherit;
+}
+.header ul {
+    display: flex;
+    height: inherit;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.header ul li {
+    height: inherit;
+}
+.header img {
+    padding: 0 1em;
+}
