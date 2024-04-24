@@ -1,0 +1,17 @@
+:root {
+  --amarillo-obscuro: #a05e1f;
+  --amarillo-claro: #cf7f1a;
+  --blanco: white;
+  --gris: #4d4d4d;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
