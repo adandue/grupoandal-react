@@ -5,11 +5,7 @@ const Header = () => {
     return (
         <>
         <header className="header">
-        <img 
-            alt="Logo Andal Minerales" 
-            height="50"
-            src={logo}
-        />
+        <img src={logo} alt="Logo Andal Minerales" height="50"></img>
         <nav class="menu">
             <ul>
                 <li>

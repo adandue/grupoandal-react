@@ -1,11 +1,12 @@
 import { Header } from '../Header';
+import { Hero } from '../Hero';
 import './App.css'
 
 function App() {
   return (
     <>
     <Header />
-    <h1>Andal Minerales</h1>
+    <Hero />
     </>
   );
 }
