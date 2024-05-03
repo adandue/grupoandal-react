@@ -1,4 +1,4 @@
-import { Header } from '../Header';
+// import { Header } from '../Header';
 import { Hero } from '../Hero';
 import { RocaYeso } from '../RocaYeso';
 import './App.css'
@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
     <>
-    <Header />
+    {/* <Header /> */}
     <Hero />
     <RocaYeso />
     </>
